@@ -1,7 +1,7 @@
 # Voting Protocol
 
 1. Once an RFC is on Review for 7 days, a call for votes on a measure will be issued.
-2. All active volunteers may vote on an RFC proposal.
+2. All members of Open Source Matters (Class 1, 2 and 3) will have the right to vote for a RFC proposal.
 3. The time limit on a vote is 7 days from the time of the call for votes, or until all voting members have cast their vote, whichever comes first. Votes cast after the time limit are not valid.
 4. Votes can be +1 (“in favor”), -1 (“against”), or 0 (“abstain”).
 5. One-third or more of the voting members must vote within the time limit for the vote to be valid. This is the equivalent of establishing a quorum. For example:
